@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="188"/>
+        <CursorPos X="35" Y="195"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <Caret Line="83" Column="59" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <Caret Line="42" Column="43" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <Caret Line="92" Column="59" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <Caret Line="90" Column="24" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <Caret Line="99" Column="3" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <Caret Line="60" Column="24" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_15.lpr"/>
+        <Caret Line="39" Column="25" TopLine="24"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

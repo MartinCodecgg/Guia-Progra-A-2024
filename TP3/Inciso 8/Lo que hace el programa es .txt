@@ -1,0 +1,2 @@
+Lo que hace el programa es leer ir sumando todos los números POSITIVOS de cada linea y los divide por la cantidad de números que hay para sacar el promedio
+Luego si ningún numero es positivo, escribe, no hay números positivos

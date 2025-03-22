@@ -1,0 +1,9 @@
+El código no esta correctamente optimizado, usar un ciclo while hubiese sido una mucho mejor opción
+Lo que hace es sumar números ingresados por el usuario, la condición de corte es que la suma sea mayor a 100 o que se ingrese el 0
+
+El lote de prueba son datos ejemplo ingresados por el usuario
+Lote1:0 Resultado=0
+
+Lote2:70,40,20 Resultado  110
+
+Lote3:70:0 Resultado 70 

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="44"/>
+        <CursorPos Y="58"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\resumen parcial\project1.lps"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\resumen parcial\project1.lpr"/>
+        <TopLine Value="56"/>
+        <CursorPos X="78" Y="66"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="16" Column="20" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="20" Column="27" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="26" Column="40" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="14" Column="63" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="26" Column="28" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="77" Column="3" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="82" Column="35" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="tp5_inciso_14.lpr"/>
+        <Caret Line="29" Column="37" TopLine="20"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
